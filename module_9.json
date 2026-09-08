@@ -1,0 +1,15 @@
+{
+  "name": "helix-runtime-2688",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 4255,
+    "createdAt": "2026-09-08T10:50:55.598Z"
+  }
+}
